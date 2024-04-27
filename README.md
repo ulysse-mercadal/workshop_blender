@@ -1,7 +1,8 @@
 # workshop-blender[part 1]
 
 # prérequis
-installer blender (la derniere version disponible)!
+blender (la derniere version disponible)!
+une sourie (non obligatoire, mais plus confortable)
 
 # subject
 lien du sujet: [subject](https://github.com/ulysse-mercadal/workshop_blender-part-1-/blob/main/subject.md)
