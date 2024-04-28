@@ -1,7 +1,7 @@
 # workshop-blender[part 1]
 
 # prérequis
-blender (la derniere version disponible)!
+blender (la derniere version disponible) !
 
 une sourie (non obligatoire, mais plus confortable)
 
