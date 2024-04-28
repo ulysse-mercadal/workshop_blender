@@ -1,4 +1,4 @@
-# workshop-blender[ part 1 | part 2 ]
+# workshop-blender    [ part 1 | part 2 ]
 
 # prérequis
 blender (la derniere version disponible) !
