@@ -39,3 +39,7 @@ donnez des matériaux a vos éléments, faites vous Plaisir !
 # exercice 9 
 
 créez votre premier rendu d'animation 
+
+# exercice bonus
+
+Créez une sphère, et un plan au-dessus de lui, subdivisez le plan, mettez le en smooth shading, et lancez une simulation de tissu pour le plan, de façon a ce qu'il s'entoure autour de la sphère
