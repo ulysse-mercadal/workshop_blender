@@ -13,4 +13,4 @@ une sourie (non obligatoire, mais plus confortable)
 
 # team
 | [<img src="https://avatars.githubusercontent.com/u/146720787?v=4" width=85><br><sub>ulysse Mercadal</sub>](https://github.com/ulysse-mercadal) | [<img src="https://avatars.githubusercontent.com/u/146710139?v=4" width=85><br><sub>Ethan Gillaux Genelle</sub>](https://github.com/Kunamito)
-| :------------: |
+| :------------: | :------------: |
