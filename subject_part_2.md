@@ -1,6 +1,6 @@
 # intro
 
-Blender est un logiciel ce 3d open source. C'est sûrement le logiciel le plus utilisé, car il permet de globalement tout faire : de la création de pièces techniques, d'animations, de rendus photo réalistes... Ce logiciel est ultra complet, et a donc une quantité faramineuse d'onglet, d'outils, et de modifieurs parmi lesquels on se perd rapidement, d'autant plus que la communauté crée tous les jours de nouveaux plugins pour en repousser les limites, l'objectif n'est donc pas de vous apprendre à utiliser Blender, mais plutôt de vous montrer les champs des possibles ! Aujourd'hui en vous montrant comment animer une forme simple !
+Blender est un logiciel ce 3d open source. C'est sûrement le logiciel le plus utilisé, car il permet de globalement tout faire : de la création de pièces techniques, d'animations, de rendus photo réalistes... Ce logiciel est ultra complet, et a donc une quantité faramineuse d'onglet, d'outils, et de modifieurs parmi lesquels on se perd rapidement, d'autant plus que la communauté crée tous les jours de nouveaux plugins pour en repousser les limites, l'objectif n'est donc pas de vous apprendre à utiliser Blender, mais plutôt de vous montrer le champs des possibles! Aujourd'hui en vous montrant comment animer une forme simple !
 
 # exercice 1
 
