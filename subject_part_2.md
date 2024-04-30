@@ -4,7 +4,7 @@ Blender est un logiciel ce 3d open source. C'est sûrement le logiciel le plus u
 
 # exercice 1
 
-Supprimez le cube, créez un plan, Alex dans édit mod->clique droit->merge vertices. Extrudez le point restant pour en faire un fil, puis appliquez-lui un skin à modifier. bravo vous avez la base de votre jambe
+Supprimez le cube, créez un plan, Alez dans édit mod->clique droit->merge vertices. Extrudez le point restant pour en faire un fil, puis appliquez-lui un skin à modifier. bravo vous avez la base de votre jambe
 
 # exercice 2
 
