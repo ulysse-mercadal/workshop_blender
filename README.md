@@ -1,8 +1,7 @@
 # workshop-blender    [ part 1 | part 2 ]
 
 # prérequis
-blender (la derniere version disponible) !
-
+la derniere version disponible de blender
 une sourie (non obligatoire, mais plus confortable)
 
 # subject
